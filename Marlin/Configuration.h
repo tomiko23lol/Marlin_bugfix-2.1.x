@@ -54,7 +54,7 @@
  *                      https://youtu.be/wAL9d7FgInk
  *                      https://teachingtechyt.github.io/calibration.html
  *
- * Calibration Objects: https://www.thingiverse.com/thing:5573
+ * Calibration Objects: https://www.thingiverse.com/thing:5573x
  *                      https://www.thingiverse.com/thing:1278865
  */
 
@@ -116,7 +116,7 @@
 //#define BLUETOOTH
 
 // Name displayed in the LCD "Ready" message and Info menu
-//#define CUSTOM_MACHINE_NAME "3D Printer"
+#define CUSTOM_MACHINE_NAME "TT_Saphire_Plus_20230909_1"
 
 // Printer's unique ID, used by some programs to differentiate between machines.
 // Choose your own or use a service like https://www.uuidgenerator.net/version4
